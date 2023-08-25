@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "DesarrolloMovilNativoJeanCarlo"
 include(":app")
+include(":modulouno")
+include(":lib")
